@@ -28,7 +28,7 @@ Config.Peds = {
         scale = 0.8,
         model = 's_f_y_hooker_01',
         animation = 'WORLD_HUMAN_SMOKING',
-        resource = 'procurer',
+        resource = 'esx_procurer',
         onEnter = 'startWorking',
         isEnabled = 'isEnabled'
 		
@@ -44,7 +44,7 @@ Config.Peds = {
         scale = 0.8,
         model = "g_m_m_armboss_01",
         animation = "WORLD_HUMAN_SMOKING",
-        resource = "bumfight",
+        resource = "esx_bumfight",
         onEnter = "openMenu",
         onEnterText = "Appuyez sur ~INPUT_CONTEXT~ pour ~g~parier~w~ ou pour ~y~combattre~w~.",
         onExit = 'closeMenu'
